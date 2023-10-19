@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+python-dotenv
+requests
+asyncio
+bs4
+emoji
